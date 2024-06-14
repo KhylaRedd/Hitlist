@@ -1,0 +1,50 @@
+[
+     {
+          "id": "Jktz",
+          "firstName": "Gwendolyn",
+          "lastName": "Beahan",
+          "age": 33,
+          "zodiacSign": "Cancer",
+          "trustWorthy": true,
+          "proneToBattle": true,
+          "leastFavMusic": "Country",
+          "favoriteBand": "Incredible Highlander",
+          "ThingstoNote": "auction advocate ,dreamer, environmentalist "
+     },
+     {
+          "id": "nSyU",
+          "firstName": "Adriana",
+          "lastName": "Jenkins",
+          "age": 30,
+          "zodiacSign": "Cancer",
+          "trustWorthy": true,
+          "proneToBattle": false,
+          "leastFavMusic": "Pop",
+          "favoriteBand": "Elegant Somali",
+          "ThingstoNote": "blogger, blogger, nerd 🏇 ,filmmaker, film lover, philosopher "
+     },
+     {
+          "id": "o6yb",
+          "firstName": "Kayla",
+          "lastName": "Mraz",
+          "age": 38,
+          "zodiacSign": "Gemini",
+          "trustWorthy": false,
+          "proneToBattle": false,
+          "leastFavMusic": "Pop",
+          "favoriteBand": "Refined Nebelung",
+          "ThingstoNote": "scraper devotee, person ,dreamer "
+     },
+     {
+          "id": "0XNw",
+          "firstName": "Rebeca",
+          "lastName": "Lehner",
+          "age": 20,
+          "zodiacSign": "Leo",
+          "trustWorthy": false,
+          "proneToBattle": false,
+          "leastFavMusic": "Latin",
+          "favoriteBand": "Intelligent Kurilian Bobtail",
+          "ThingstoNote": "vacation enthusiast, nerd ,traveler, model, scientist ◼️ "
+     }
+]

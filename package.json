@@ -1,0 +1,27 @@
+{
+  "name": "bffgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+
+    "start": "node index.js start",
+    "show": "node index.js show",
+    "destroy": "node index.js destroy",
+    "add": "node index.js add",
+    "sort" :"node index.js sort",
+    "update" :"node index.js update",
+    "title": "node index.js title"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "dependencies": {
+    "nanoid": "^5.0.7",
+    "figlet": "^1.7.0"
+  }
+}
