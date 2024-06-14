@@ -16,6 +16,8 @@ npm install hitlist
 ### Show
 
 To view the full list of objects on the Hitlist located in `foes.json`, run:
+<img width="287" alt="Screenshot 2024-06-14 at 4 28 21 PM" src="https://github.com/KhylaRedd/Hitlist/assets/152443591/4c35669e-a373-4c76-aa6f-a2453c587654">
+
 
 npm run show
 
